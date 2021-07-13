@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import AboutMe from './components/AboutMe';
+import ContactMe from './components/ContactMe';
 import logo from './logo.svg';
 import './App.css';
 
@@ -9,6 +10,7 @@ function App() {
     <div>
       <Header />
       <AboutMe />
+      <ContactMe />
     </div>
     
     // <div className="App">
