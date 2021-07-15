@@ -23,5 +23,16 @@ header {
 
 #aboutme {
 background-color:rgba(255, 255, 255, 0.6);
+max-width: 40%;
+margin: 10px;
 }
 
+#contactme {
+background-color:rgba(255, 255, 255, 0.6);
+max-width: 40%;
+margin: 10px;
+}
+
+.work {
+  max-width: 40%;
+}

@@ -11,8 +11,13 @@ function App() {
   return (
     <div>
       <Header />
-      <AboutMe />
-      <ContactMe />
+      <div className="container">
+        <div className="row">
+          <AboutMe />
+          <ContactMe />
+        </div>
+      </div>
+      
       <Work portfolioData={portfolioData}/>
     </div>
    
