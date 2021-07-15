@@ -16,6 +16,12 @@ code {
 header {
   /* background-image:url("https://images.pexels.com/photos/4466584/pexels-photo-4466584.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"); */
   background-size: cover;
+  background-color:rgba(255, 255, 255, 0.6);
   
 
 }
+
+#aboutme {
+background-color:rgba(255, 255, 255, 0.6);
+}
+
