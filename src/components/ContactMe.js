@@ -1,4 +1,5 @@
 import React from 'react';
+import profile from '../screenshots/profilepic.jfif';
 
 function ContactMe() {
     return (
@@ -14,6 +15,9 @@ function ContactMe() {
                 <p>Github Link:</p>
                 <p>https://github.com/ashasan1</p>
                <a href="https://drive.google.com/file/d/1MDxhq5rMatuXIs3rU600Dds5lhzELxTO/view?usp=sharing"><h2>Resume</h2></a>
+          </div>
+          <div className="col md">
+            <img id="profile" src={profile}></img>
           </div>
           
         </div>
